@@ -1,0 +1,9 @@
+backend/target/
+backend/*.jar
+frontend/node_modules/
+frontend/dist/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
